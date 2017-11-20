@@ -3,3 +3,6 @@
 Este e um repositorio para ensinar como o git funciona
 
 Saiba mais em exemplo.com.br
+
+
+Gostou do curso?Quer mais?
